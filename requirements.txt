@@ -1,0 +1,43 @@
+<<<<<<< Updated upstream
+asgiref==3.7.2
+certifi==2023.11.17
+charset-normalizer==3.3.2
+Django==5.0.1
+idna==3.6
+razorpay==1.4.1
+requests==2.31.0
+six==1.16.0
+sqlparse==0.4.4
+typing_extensions==4.9.0
+tzdata==2023.4
+urllib3==2.1.0
+django-allauth==0.60.1
+razorpay==1.4.1
+langchain_openai
+authlib ~= 1.0
+# django ~= 4.0
+python-dotenv ~= 0.19
+requests ~= 2.27
+pyotp
+=======
+asgiref==3.7.2
+certifi==2023.11.17
+charset-normalizer==3.3.2
+Django==5.0.1
+idna==3.6
+razorpay==1.4.1
+requests==2.31.0
+six==1.16.0
+sqlparse==0.4.4
+typing_extensions==4.9.0
+tzdata==2023.4
+urllib3==2.1.0
+django-allauth==0.60.1
+razorpay==1.4.1
+langchain_openai
+authlib ~= 1.0
+# django ~= 4.0
+python-dotenv ~= 0.19
+requests ~= 2.27
+pyotp
+>>>>>>> Stashed changes
